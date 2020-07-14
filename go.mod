@@ -1,4 +1,4 @@
-module github.com/wwq1988/sqlmock
+module github.com/wwq-2020/sqlmock
 
 go 1.13
 
